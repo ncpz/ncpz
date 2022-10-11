@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ncpz
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development for a NFT project.
+- 👀 I’m interested in learning web development, AI.
+- 🌱 I’m currently learning Python :>
 - 📫 How to reach me :mrnamcraftfan@gmail.com
 
 <!---
