@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ncpz
 - 👀 I’m interested in learning web development, AI.
-- 🌱 I’m currently learning Python :>
+- 🌱 I’m currently learning C++ :>
+- Language: Python, C++,
 - 📫 How to reach me :mrnamcraftfan@gmail.com
 
 <!---
